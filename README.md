@@ -1,6 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi%20There!%20I'm%20Mohamed%20Agdid%20👋&fontSize=42&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontWeight=700&desc=Software%20Engineer%20|%20Systems%20|%20AI&descAlign=50&descAlignY=58&descColor=ffffff&color=0:ff0000,25:ff0000,50:ff4800,100:ff4800)
-
-
 <p align="center">
   <a href="mailto:mohamed.agdid.pro@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-ff4800?style=for-the-badge&logo=gmail&logoColor=white">
@@ -79,5 +76,3 @@
 </p>
 
 ---
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff0000,25:ff0000,50:ff4800,100:ff4800)
